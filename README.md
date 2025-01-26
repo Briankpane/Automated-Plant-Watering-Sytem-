@@ -1,1 +1,1 @@
-Automated Plant Watering System with Matlab software and Arduino Grove Beginner Kit Board
+Automated Plant Watering System with Matlab software and Arduino Grove Board Hardware. Apple Mac M3 was used
